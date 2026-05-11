@@ -1,0 +1,34 @@
+name: Daily Profile Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update timestamp
+        run: |
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+          perl -0777 -i -pe "s|<!--TIMESTAMP_START-->.*?<!--TIMESTAMP_END-->|<!--TIMESTAMP_START-->$TIMESTAMP<!--TIMESTAMP_END-->|gs" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          git diff --cached --quiet || git commit -m "docs: update profile timestamp"
+
+          git push
