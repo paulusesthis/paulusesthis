@@ -39,7 +39,7 @@ I build software where **product craft meets systems engineering**, pairing clea
         <img src="./assets/stackle-logo.svg" width="22" height="22" align="absmiddle" alt="Stackle logo" />
         &nbsp;<a href="https://stackle.dev">Stackle</a> ↗
       </h3>
-      <p><strong>Website technology intelligence, simplified.</strong></p>
+      <p><strong>Discover any Website's Tech Stack.</strong></p>
       <p>
         Inspects any live website to uncover the frameworks, libraries, and infrastructure powering it, presented through a fast, minimal interface with shareable scan reports.
       </p>
@@ -54,7 +54,7 @@ I build software where **product craft meets systems engineering**, pairing clea
         <img src="./assets/sharebox-logo.svg" width="22" height="22" align="absmiddle" alt="Sharebox logo" />
         &nbsp;<a href="https://sharebox-app.vercel.app/">Sharebox</a> ↗
       </h3>
-      <p><strong>Frictionless, secure cross-device transfer.</strong></p>
+      <p><strong>Share anything between devices in seconds.</strong></p>
       <p>
         A cross-platform sharing web application engineered for transferring text, files, and passwords securely between devices without setup overhead.
       </p>
