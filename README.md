@@ -1,4 +1,4 @@
-# Abegunde Paul
+# Mofiyinfoluwa P. Abegunde 
 
 **Full-Stack Developer** &nbsp;|&nbsp; **AI/ML** &nbsp;|&nbsp; React · TypeScript · Python · UI/UX · Web3
 
