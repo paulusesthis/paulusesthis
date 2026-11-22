@@ -69,9 +69,8 @@ Hello! I'm **Paul**, a full stack developer passionate about building scalable w
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Cyber](https://github.com/AV-prog/cyber) | E-Commerce Website | HTML, Javascript |
-| [Task App](https://github.com/paulusesthis/task-app) | Simple Task App | Javascript |
-| [Currency Converter](https://github.com/paulusesthis/currency-converter) | Convert 180+ currencies — [Live Demo](https://currency-converter-psi-dusky.vercel.app/) | HTML, JS, Tailwind |
+| [Stackle](https://stackle.dev) | Web tool that reveals the technologies, frameworks, and libraries powering any website through a simple, intuitive interface. | React, TypeScript, Vite, Tailwind CSS, Node.js, Fastify, Cheerio, Playwright, Vercel Blob |
+| [Sharebox](https://sharebox-app.vercel.app/) | Cross-platform sharing application for securely transferring text, files, and passwords between devices. | React 18, TypeScript, Vite, Tailwind CSS 4, Node.js, PostgreSQL |
 
 ---
 
