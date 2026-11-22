@@ -1,98 +1,100 @@
 <div align="center">
+  <img src="./assets/hero-banner.svg" alt="Abegunde Paul — Full-Stack Developer | AI/ML | React · TypeScript · Python · UI/UX · Web3" width="100%" />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=paulusesthis.paulusesthis)
+  <br /><br />
 
-# Hi, I'm Abegunde Paul 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;AI%2FML+%26+Python+Builder;React+%E2%80%A2+TypeScript+%E2%80%A2+UI%2FUX;Web3+%26+Smart+Contract+Engineer)](https://git.io/typing-svg)
-
-🕒 Last updated: <!--TIMESTAMP_START-->2026-11-22 18:08:35 UTC<!--TIMESTAMP_END-->
-
-**Full-Stack Developer | AI/ML | React • TypeScript • Python • UI/UX • Web3**
-
+  <a href="https://www.linkedin.com/in/paul-abegunde-115823364/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=3b82f6" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fiyinfolu08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=3b82f6" alt="Email" />
+  </a>
+  <a href="https://stackle.dev">
+    <img src="https://img.shields.io/badge/Stackle-0f172a?style=for-the-badge&logo=vercel&logoColor=3b82f6" alt="Stackle" />
+  </a>
+  <a href="https://sharebox-app.vercel.app/">
+    <img src="https://img.shields.io/badge/Sharebox-0f172a?style=for-the-badge&logo=react&logoColor=3b82f6" alt="Sharebox" />
+  </a>
 </div>
 
----
+<br />
 
-## 👨‍💻 About Me
+### Overview
 
-Hello! I'm **Paul**, a Full-Stack Developer focused on building fast, intuitive web applications, exploring **AI/ML** with **Python**, crafting clean **UI/UX** experiences, and engineering for **Web3**. I work across the full stack with **React**, **TypeScript**, **Node.js**, **Fastify**, and **PostgreSQL** to turn ideas into polished, scalable products like [Stackle](https://stackle.dev) and [Sharebox](https://sharebox-app.vercel.app/).
-
----
-
-## 🛠️ Technologies & Tools
-
-### Frontend & UI/UX
-<p align="left">
-  <img align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Vite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-  <img align="center" alt="Tailwind CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-</p>
-
-### Backend & Databases
-<p align="left">
-  <img align="center" alt="Node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Fastify" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg">
-  <img align="center" alt="PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-</p>
-
-### AI/ML & Web3
-<p align="left">
-  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Solidity" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg">
-  <img align="center" alt="Rust" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
-</p>
-
-### Automation, Deployment & Tools
-<p align="left">
-  <img align="center" alt="Playwright" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg">
-  <img align="center" alt="Vercel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg">
-  <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-</p>
+I build software where **product craft meets systems engineering** — pairing clean, deliberate **UI/UX** with resilient **TypeScript** and **Node.js** backends, **Python** AI/ML workflows, and **Web3** infrastructure. I care about speed, clarity, and shipping tools people actually enjoy using.
 
 ---
 
-## 🌱 Currently Learning
+### Selected Work
 
-- Model training and applied AI/ML workflows in Python
-- Scalable TypeScript & Node.js API architecture, validation, and security
-- Designing polished, accessible UI/UX systems
-- On-chain data analysis and Web3 smart contract development
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://stackle.dev">Stackle</a> ↗</h3>
+      <p><strong>Website technology intelligence, simplified.</strong></p>
+      <p>
+        Inspects any live website to uncover the frameworks, libraries, and infrastructure powering it — presented through a fast, minimal interface with shareable scan reports.
+      </p>
+      <p>
+        <sub>
+          <b>Stack:</b> React · TypeScript · Vite · Tailwind CSS · Node.js · Fastify · Cheerio · Playwright · Vercel Blob
+        </sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://sharebox-app.vercel.app/">Sharebox</a> ↗</h3>
+      <p><strong>Frictionless, secure cross-device transfer.</strong></p>
+      <p>
+        A cross-platform sharing web application engineered for transferring text, files, and passwords securely between devices without setup overhead.
+      </p>
+      <p>
+        <sub>
+          <b>Stack:</b> React 18 · TypeScript · Vite · Tailwind CSS 4 · Node.js · PostgreSQL
+        </sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+### Technical Stack
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Stackle](https://stackle.dev) | Web tool that reveals the technologies, frameworks, and libraries powering any website through a simple, intuitive interface. | React, TypeScript, Vite, Tailwind CSS, Node.js, Fastify, Cheerio, Playwright, Vercel Blob |
-| [Sharebox](https://sharebox-app.vercel.app/) | Cross-platform sharing application for securely transferring text, files, and passwords between devices. | React 18, TypeScript, Vite, Tailwind CSS 4, Node.js, PostgreSQL |
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend & UI/UX** | ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb) ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178c6) ![Vite](https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite&logoColor=646cff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8) ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=f7df1e) ![Figma](https://img.shields.io/badge/Figma-0f172a?style=flat-square&logo=figma&logoColor=f24e1e) |
+| **Backend & Data** | ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=339933) ![Fastify](https://img.shields.io/badge/Fastify-0f172a?style=flat-square&logo=fastify&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169e1) |
+| **AI/ML & Web3** | ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776ab) ![Solidity](https://img.shields.io/badge/Solidity-0f172a?style=flat-square&logo=solidity&logoColor=cbd5e1) ![Rust](https://img.shields.io/badge/Rust-0f172a?style=flat-square&logo=rust&logoColor=f97316) |
+| **Automation & Infra** | ![Playwright](https://img.shields.io/badge/Playwright-0f172a?style=flat-square&logo=playwright&logoColor=2ead33) ![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=flat-square&logo=vercel&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=f05032) ![Ubuntu](https://img.shields.io/badge/Ubuntu-0f172a?style=flat-square&logo=ubuntu&logoColor=e95420) |
 
 ---
 
-## 📊 GitHub Stats
+### Current Focus
+
+- **Applied AI/ML** — Experimenting with model training, evaluation pipelines, and practical Python tooling.
+- **High-Signal Web Systems** — Designing fast, secure TypeScript & Fastify APIs backed by PostgreSQL.
+- **Interface Craft** — Building cohesive, accessible UI/UX systems with sharp visual hierarchy.
+- **Web3 & On-Chain Data** — Exploring smart contract architecture and on-chain analytics.
+
+---
+
+### GitHub Activity
 
 <div align="center">
   <a href="https://github.com/paulusesthis">
-    <img height="195" src="./assets/github-stats.svg" alt="Stats">
-    <img height="195" src="https://streak-stats.demolab.com/?user=paulusesthis&theme=dark&background=00000000&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6&sideNums=3b82f6&currStreakLabel=3b82f6" alt="Streak">
-    <img height="195" src="./assets/top-langs.svg" alt="Top Languages">
+    <img height="195" src="./assets/github-stats.svg" alt="GitHub Stats" />
+    <img height="195" src="https://streak-stats.demolab.com/?user=paulusesthis&theme=dark&background=00000000&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6&sideNums=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" />
+    <img height="195" src="./assets/top-langs.svg" alt="Most Used Languages" />
   </a>
-  <br><br>
-  <img src="./assets/trophies.svg" alt="Trophies">
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulusesthis&theme=github-dark&bg_color=00000000&color=3b82f6&line=3b82f6&point=ffffff" alt="Activity Graph" width="100%">
+  <br /><br />
+  <img src="./assets/trophies.svg" alt="GitHub Trophies" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulusesthis&theme=github-dark&bg_color=00000000&color=3b82f6&line=3b82f6&point=ffffff" alt="Activity Graph" width="100%" />
 </div>
 
 ---
 
-## 📫 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-abegunde-115823364/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fiyinfolu08@gmail.com)
+<div align="center">
+  <sub>Open to collaborating on ambitious web products, AI/ML experiments, and Web3 tooling.</sub><br />
+  <sub>Last synced: <!--TIMESTAMP_START-->2026-11-22 18:08:35 UTC<!--TIMESTAMP_END--></sub>
+</div>
