@@ -79,12 +79,12 @@ Hello! I'm **Paul**, a full stack developer passionate about building scalable w
 
 <div align="center">
   <a href="https://github.com/paulusesthis">
-    <img height="195" src="https://github-readme-stats-tawny-tau-64.vercel.app/api?username=paulusesthis&show_icons=true&theme=dark&bg_color=00000000&text_color=3b82f6&icon_color=3b82f6&title_color=3b82f6&rank_icon=github" alt="Stats">
+    <img height="195" src="./assets/github-stats.svg" alt="Stats">
     <img height="195" src="https://streak-stats.demolab.com/?user=paulusesthis&theme=dark&background=00000000&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6&sideNums=3b82f6&currStreakLabel=3b82f6" alt="Streak">
-    <img height="195" src="https://github-readme-stats-tawny-tau-64.vercel.app/api/top-langs/?username=paulusesthis&layout=compact&theme=dark&bg_color=00000000&text_color=3b82f6&title_color=3b82f6" alt="Top Languages">
+    <img height="195" src="./assets/top-langs.svg" alt="Top Languages">
   </a>
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=paulusesthis&theme=algolia&no-bg=true&no-frame=true&column=7" alt="Trophies">
+  <img src="./assets/trophies.svg" alt="Trophies">
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulusesthis&theme=github-dark&bg_color=00000000&color=3b82f6&line=3b82f6&point=ffffff" alt="Activity Graph" width="100%">
 </div>

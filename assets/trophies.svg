@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="782" height="112" viewBox="0 0 782 112" fill="none" role="img" aria-label="GitHub Trophies">
+  <title>GitHub Trophies</title>
+  <style>
+    .t-title { font: 700 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #3b82f6; }
+    .t-value { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .t-sub { font: 400 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+  </style>
+  
+  <g transform="translate(0, 0)">
+    <rect x="0.5" y="0.5" rx="6" width="121" height="111" stroke="#30363d" fill="#000000" fill-opacity="0"/>
+    <text x="61" y="20" text-anchor="middle" class="t-title">Stars</text>
+    <g transform="translate(47, 27)">
+      <path d="M5 2h18v7a9 9 0 01-18 0V2z" stroke="#38bdf8" stroke-width="1.8" fill="#38bdf8" fill-opacity="0.15"/>
+      <path d="M5 4H2.5a1.5 1.5 0 00-1.5 1.5v1A4.5 4.5 0 005.5 11M23 4h2.5A1.5 1.5 0 0127 5.5v1A4.5 4.5 0 0122.5 11" stroke="#38bdf8" stroke-width="1.6" fill="none"/>
+      <path d="M14 18v5M9.5 23h9" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="14" y="12.5" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" font-weight="800" fill="#38bdf8">B</text>
+    </g>
+    <text x="61" y="71" text-anchor="middle" class="t-value">13</text>
+    <text x="61" y="86" text-anchor="middle" class="t-sub">Total Stars</text>
+    <rect x="12" y="96" width="98" height="5" rx="2.5" fill="#30363d"/>
+    <rect x="12" y="96" width="42" height="5" rx="2.5" fill="#38bdf8"/>
+  </g>
+  <g transform="translate(132, 0)">
+    <rect x="0.5" y="0.5" rx="6" width="121" height="111" stroke="#30363d" fill="#000000" fill-opacity="0"/>
+    <text x="61" y="20" text-anchor="middle" class="t-title">Commits</text>
+    <g transform="translate(47, 27)">
+      <path d="M5 2h18v7a9 9 0 01-18 0V2z" stroke="#38bdf8" stroke-width="1.8" fill="#38bdf8" fill-opacity="0.15"/>
+      <path d="M5 4H2.5a1.5 1.5 0 00-1.5 1.5v1A4.5 4.5 0 005.5 11M23 4h2.5A1.5 1.5 0 0127 5.5v1A4.5 4.5 0 0122.5 11" stroke="#38bdf8" stroke-width="1.6" fill="none"/>
+      <path d="M14 18v5M9.5 23h9" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="14" y="12.5" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" font-weight="800" fill="#38bdf8">B</text>
+    </g>
+    <text x="61" y="71" text-anchor="middle" class="t-value">176</text>
+    <text x="61" y="86" text-anchor="middle" class="t-sub">Yearly Commits</text>
+    <rect x="12" y="96" width="98" height="5" rx="2.5" fill="#30363d"/>
+    <rect x="12" y="96" width="57" height="5" rx="2.5" fill="#38bdf8"/>
+  </g>
+  <g transform="translate(264, 0)">
+    <rect x="0.5" y="0.5" rx="6" width="121" height="111" stroke="#30363d" fill="#000000" fill-opacity="0"/>
+    <text x="61" y="20" text-anchor="middle" class="t-title">Repositories</text>
+    <g transform="translate(47, 27)">
+      <path d="M5 2h18v7a9 9 0 01-18 0V2z" stroke="#38bdf8" stroke-width="1.8" fill="#38bdf8" fill-opacity="0.15"/>
+      <path d="M5 4H2.5a1.5 1.5 0 00-1.5 1.5v1A4.5 4.5 0 005.5 11M23 4h2.5A1.5 1.5 0 0127 5.5v1A4.5 4.5 0 0122.5 11" stroke="#38bdf8" stroke-width="1.6" fill="none"/>
+      <path d="M14 18v5M9.5 23h9" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="14" y="12.5" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" font-weight="800" fill="#38bdf8">B</text>
+    </g>
+    <text x="61" y="71" text-anchor="middle" class="t-value">21</text>
+    <text x="61" y="86" text-anchor="middle" class="t-sub">Public Repos</text>
+    <rect x="12" y="96" width="98" height="5" rx="2.5" fill="#30363d"/>
+    <rect x="12" y="96" width="82" height="5" rx="2.5" fill="#38bdf8"/>
+  </g>
+  <g transform="translate(396, 0)">
+    <rect x="0.5" y="0.5" rx="6" width="121" height="111" stroke="#30363d" fill="#000000" fill-opacity="0"/>
+    <text x="61" y="20" text-anchor="middle" class="t-title">Pull Requests</text>
+    <g transform="translate(47, 27)">
+      <path d="M5 2h18v7a9 9 0 01-18 0V2z" stroke="#38bdf8" stroke-width="1.8" fill="#38bdf8" fill-opacity="0.15"/>
+      <path d="M5 4H2.5a1.5 1.5 0 00-1.5 1.5v1A4.5 4.5 0 005.5 11M23 4h2.5A1.5 1.5 0 0127 5.5v1A4.5 4.5 0 0122.5 11" stroke="#38bdf8" stroke-width="1.6" fill="none"/>
+      <path d="M14 18v5M9.5 23h9" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="14" y="12.5" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" font-weight="800" fill="#38bdf8">B</text>
+    </g>
+    <text x="61" y="71" text-anchor="middle" class="t-value">14</text>
+    <text x="61" y="86" text-anchor="middle" class="t-sub">Total PRs</text>
+    <rect x="12" y="96" width="98" height="5" rx="2.5" fill="#30363d"/>
+    <rect x="12" y="96" width="46" height="5" rx="2.5" fill="#38bdf8"/>
+  </g>
+  <g transform="translate(528, 0)">
+    <rect x="0.5" y="0.5" rx="6" width="121" height="111" stroke="#30363d" fill="#000000" fill-opacity="0"/>
+    <text x="61" y="20" text-anchor="middle" class="t-title">Followers</text>
+    <g transform="translate(47, 27)">
+      <path d="M5 2h18v7a9 9 0 01-18 0V2z" stroke="#60a5fa" stroke-width="1.8" fill="#60a5fa" fill-opacity="0.15"/>
+      <path d="M5 4H2.5a1.5 1.5 0 00-1.5 1.5v1A4.5 4.5 0 005.5 11M23 4h2.5A1.5 1.5 0 0127 5.5v1A4.5 4.5 0 0122.5 11" stroke="#60a5fa" stroke-width="1.6" fill="none"/>
+      <path d="M14 18v5M9.5 23h9" stroke="#60a5fa" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="14" y="12.5" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" font-weight="800" fill="#60a5fa">C</text>
+    </g>
+    <text x="61" y="71" text-anchor="middle" class="t-value">6</text>
+    <text x="61" y="86" text-anchor="middle" class="t-sub">GitHub Followers</text>
+    <rect x="12" y="96" width="98" height="5" rx="2.5" fill="#30363d"/>
+    <rect x="12" y="96" width="59" height="5" rx="2.5" fill="#60a5fa"/>
+  </g>
+  <g transform="translate(660, 0)">
+    <rect x="0.5" y="0.5" rx="6" width="121" height="111" stroke="#30363d" fill="#000000" fill-opacity="0"/>
+    <text x="61" y="20" text-anchor="middle" class="t-title">Experience</text>
+    <g transform="translate(47, 27)">
+      <path d="M5 2h18v7a9 9 0 01-18 0V2z" stroke="#38bdf8" stroke-width="1.8" fill="#38bdf8" fill-opacity="0.15"/>
+      <path d="M5 4H2.5a1.5 1.5 0 00-1.5 1.5v1A4.5 4.5 0 005.5 11M23 4h2.5A1.5 1.5 0 0127 5.5v1A4.5 4.5 0 0122.5 11" stroke="#38bdf8" stroke-width="1.6" fill="none"/>
+      <path d="M14 18v5M9.5 23h9" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="14" y="12.5" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" font-weight="800" fill="#38bdf8">B</text>
+    </g>
+    <text x="61" y="71" text-anchor="middle" class="t-value">2 yrs</text>
+    <text x="61" y="86" text-anchor="middle" class="t-sub">On GitHub</text>
+    <rect x="12" y="96" width="98" height="5" rx="2.5" fill="#30363d"/>
+    <rect x="12" y="96" width="65" height="5" rx="2.5" fill="#38bdf8"/>
+  </g>
+</svg>
