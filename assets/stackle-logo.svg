@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+  <path d="M12 2 22 7.5 12 13 2 7.5 12 2Z" fill="#171717" />
+  <path d="m2 12 10 5.5L22 12" stroke="#171717" stroke-width="2" stroke-linejoin="round" />
+  <path d="m2 16.5 10 5.5 10-5.5" stroke="#171717" stroke-width="2" stroke-linejoin="round" />
+  <style>
+    @media (prefers-color-scheme: dark) {
+      path:first-of-type { fill: #fff; }
+      path:not(:first-of-type) { stroke: #fff; }
+    }
+  </style>
+</svg>

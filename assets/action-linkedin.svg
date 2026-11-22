@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="32" viewBox="0 0 118 32" fill="none" role="img" aria-label="LinkedIn">
+  <rect x="0.5" y="0.5" width="117" height="31" rx="6" fill="#0a0a0a" stroke="#262626"/>
+  <g transform="translate(14, 9)" fill="#ffffff">
+    <path d="M3.14 2.04a1.57 1.57 0 11-3.14 0 1.57 1.57 0 013.14 0zM.2 4.78h2.74V13.6H.2V4.78zm4.48 0h2.63v1.2h.04c.37-.7 1.26-1.43 2.6-1.43 2.78 0 3.29 1.83 3.29 4.21v4.84H10.5V9.31c0-1.02-.02-2.34-1.42-2.34-1.43 0-1.65 1.11-1.65 2.26v4.37H4.68V4.78z"/>
+  </g>
+  <text x="38" y="20" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="600" letter-spacing="0.4" fill="#ffffff">LINKEDIN</text>
+</svg>

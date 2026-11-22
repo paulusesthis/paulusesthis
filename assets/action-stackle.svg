@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="32" viewBox="0 0 114 32" fill="none" role="img" aria-label="Stackle">
+  <rect x="0.5" y="0.5" width="113" height="31" rx="6" fill="#0a0a0a" stroke="#262626"/>
+  <svg x="13" y="8" width="16" height="16" viewBox="0 0 24 24" fill="none">
+    <path d="M12 2 22 7.5 12 13 2 7.5 12 2Z" fill="#ffffff" />
+    <path d="m2 12 10 5.5L22 12" stroke="#ffffff" stroke-width="2" stroke-linejoin="round" />
+    <path d="m2 16.5 10 5.5 10-5.5" stroke="#ffffff" stroke-width="2" stroke-linejoin="round" />
+  </svg>
+  <text x="38" y="20" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="600" letter-spacing="0.4" fill="#ffffff">STACKLE</text>
+</svg>

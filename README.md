@@ -1,19 +1,22 @@
 <div align="center">
-  <img src="./assets/hero-banner.svg" alt="Abegunde Paul — Full-Stack Developer | AI/ML | React · TypeScript · Python · UI/UX · Web3" width="100%" />
+  <img src="./assets/hero-banner.svg" alt="Abegunde Paul | Full-Stack Developer | AI/ML | React · TypeScript · Python · UI/UX · Web3" width="100%" />
 
   <br /><br />
 
   <a href="https://www.linkedin.com/in/paul-abegunde-115823364/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=3b82f6" alt="LinkedIn" />
+    <img src="./assets/action-linkedin.svg" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:fiyinfolu08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=3b82f6" alt="Email" />
+    <img src="./assets/action-email.svg" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://stackle.dev">
-    <img src="https://img.shields.io/badge/Stackle-0f172a?style=for-the-badge&logo=vercel&logoColor=3b82f6" alt="Stackle" />
+    <img src="./assets/action-stackle.svg" alt="Stackle" />
   </a>
+  &nbsp;
   <a href="https://sharebox-app.vercel.app/">
-    <img src="https://img.shields.io/badge/Sharebox-0f172a?style=for-the-badge&logo=react&logoColor=3b82f6" alt="Sharebox" />
+    <img src="./assets/action-sharebox.svg" alt="Sharebox" />
   </a>
 </div>
 
@@ -21,7 +24,7 @@
 
 ### Overview
 
-I build software where **product craft meets systems engineering** — pairing clean, deliberate **UI/UX** with resilient **TypeScript** and **Node.js** backends, **Python** AI/ML workflows, and **Web3** infrastructure. I care about speed, clarity, and shipping tools people actually enjoy using.
+I build software where **product craft meets systems engineering**, pairing clean, deliberate **UI/UX** with resilient **TypeScript** and **Node.js** backends, **Python** AI/ML workflows, and **Web3** infrastructure. I care about speed, clarity, and shipping tools people actually enjoy using.
 
 ---
 
@@ -30,10 +33,13 @@ I build software where **product craft meets systems engineering** — pairing c
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://stackle.dev">Stackle</a> ↗</h3>
+      <h3>
+        <img src="./assets/stackle-logo.svg" width="22" height="22" align="absmiddle" alt="Stackle logo" />
+        &nbsp;<a href="https://stackle.dev">Stackle</a> ↗
+      </h3>
       <p><strong>Website technology intelligence, simplified.</strong></p>
       <p>
-        Inspects any live website to uncover the frameworks, libraries, and infrastructure powering it — presented through a fast, minimal interface with shareable scan reports.
+        Inspects any live website to uncover the frameworks, libraries, and infrastructure powering it, presented through a fast, minimal interface with shareable scan reports.
       </p>
       <p>
         <sub>
@@ -42,7 +48,10 @@ I build software where **product craft meets systems engineering** — pairing c
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://sharebox-app.vercel.app/">Sharebox</a> ↗</h3>
+      <h3>
+        <img src="./assets/sharebox-logo.svg" width="22" height="22" align="absmiddle" alt="Sharebox logo" />
+        &nbsp;<a href="https://sharebox-app.vercel.app/">Sharebox</a> ↗
+      </h3>
       <p><strong>Frictionless, secure cross-device transfer.</strong></p>
       <p>
         A cross-platform sharing web application engineered for transferring text, files, and passwords securely between devices without setup overhead.
@@ -71,10 +80,10 @@ I build software where **product craft meets systems engineering** — pairing c
 
 ### Current Focus
 
-- **Applied AI/ML** — Experimenting with model training, evaluation pipelines, and practical Python tooling.
-- **High-Signal Web Systems** — Designing fast, secure TypeScript & Fastify APIs backed by PostgreSQL.
-- **Interface Craft** — Building cohesive, accessible UI/UX systems with sharp visual hierarchy.
-- **Web3 & On-Chain Data** — Exploring smart contract architecture and on-chain analytics.
+- **Applied AI/ML:** Experimenting with model training, evaluation pipelines, and practical Python tooling.
+- **High-Signal Web Systems:** Designing fast, secure TypeScript and Fastify APIs backed by PostgreSQL.
+- **Interface Craft:** Building cohesive, accessible UI/UX systems with sharp visual hierarchy.
+- **Web3 & On-Chain Data:** Exploring smart contract architecture and on-chain analytics.
 
 ---
 
