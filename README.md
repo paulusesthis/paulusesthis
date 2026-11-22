@@ -1,8 +1,10 @@
-<div align="center">
-  <img src="./assets/hero-banner.svg" alt="Abegunde Paul | Full-Stack Developer | AI/ML | React · TypeScript · Python · UI/UX · Web3" width="100%" />
+# Abegunde Paul
 
-  <br /><br />
+**Full-Stack Developer** &nbsp;|&nbsp; **AI/ML** &nbsp;|&nbsp; React · TypeScript · Python · UI/UX · Web3
 
+> Designing clean interfaces, resilient APIs, and intelligent software systems.
+
+<p>
   <a href="https://www.linkedin.com/in/paul-abegunde-115823364/">
     <img src="./assets/action-linkedin.svg" alt="LinkedIn" />
   </a>
@@ -18,9 +20,9 @@
   <a href="https://sharebox-app.vercel.app/">
     <img src="./assets/action-sharebox.svg" alt="Sharebox" />
   </a>
-</div>
+</p>
 
-<br />
+---
 
 ### Overview
 
