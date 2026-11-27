@@ -107,5 +107,5 @@ I build software where **product craft meets systems engineering**, pairing clea
 
 <div align="center">
   <sub>Open to collaborating on ambitious web products, AI/ML experiments, and Web3 tooling.</sub><br />
-  <sub>Last synced: <!--TIMESTAMP_START-->2026-11-26 06:22:01 UTC<!--TIMESTAMP_END--></sub>
+  <sub>Last synced: <!--TIMESTAMP_START-->2026-11-27 06:11:20 UTC<!--TIMESTAMP_END--></sub>
 </div>
